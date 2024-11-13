@@ -1,4 +1,6 @@
+# Extension 
 *.doc
 *.txt
 
+# Files
 README.md
